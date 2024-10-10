@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-02T16:20:42 CDT" name="Surefire suite" finished-at="2024-10-02T16:21:20 CDT" duration-ms="37627">
+    <groups>
+    </groups>
+    <test started-at="2024-10-02T16:20:42 CDT" name="Surefire test" finished-at="2024-10-02T16:21:20 CDT" duration-ms="37627">
+      <class name="Tests.RegisterTest">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:Tests.RegisterTest@10e41621]" started-at="2024-10-02T16:21:09 CDT" name="openapplication" finished-at="2024-10-02T16:21:16 CDT" duration-ms="7010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="RegisterTest1()[pri:0, instance:Tests.RegisterTest@10e41621]" started-at="2024-10-02T16:21:16 CDT" name="RegisterTest1" finished-at="2024-10-02T16:21:19 CDT" duration-ms="3620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterTest1 -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:Tests.RegisterTest@10e41621]" started-at="2024-10-02T16:21:19 CDT" name="closure" finished-at="2024-10-02T16:21:20 CDT" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- Tests.RegisterTest -->
+      <class name="Tests.LoginTest">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:Tests.LoginTest@19bb07ed]" started-at="2024-10-02T16:20:58 CDT" name="openapplication" finished-at="2024-10-02T16:21:05 CDT" duration-ms="6751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="login()[pri:0, instance:Tests.LoginTest@19bb07ed]" started-at="2024-10-02T16:21:05 CDT" name="login" finished-at="2024-10-02T16:21:07 CDT" duration-ms="2240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:Tests.LoginTest@19bb07ed]" started-at="2024-10-02T16:21:07 CDT" name="closure" finished-at="2024-10-02T16:21:09 CDT" duration-ms="1143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- Tests.LoginTest -->
+      <class name="Tests.AddingitemtocartTest">
+        <test-method is-config="true" signature="openapplication()[pri:0, instance:Tests.AddingitemtocartTest@5c909414]" started-at="2024-10-02T16:20:42 CDT" name="openapplication" finished-at="2024-10-02T16:20:53 CDT" duration-ms="11053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplication -->
+        <test-method signature="Additemtocart()[pri:0, instance:Tests.AddingitemtocartTest@5c909414]" started-at="2024-10-02T16:20:53 CDT" name="Additemtocart" finished-at="2024-10-02T16:20:58 CDT" duration-ms="5017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Additemtocart -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:Tests.AddingitemtocartTest@5c909414]" started-at="2024-10-02T16:20:58 CDT" name="closure" finished-at="2024-10-02T16:20:58 CDT" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- Tests.AddingitemtocartTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
